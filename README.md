@@ -9,7 +9,7 @@ putar itu. ESP32 menghitung heading 0-360 derajat, memetakannya ke
 derajatnya, setiap setengah detik.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/YIarzz5OOn8
 
 ## Komponen
 
